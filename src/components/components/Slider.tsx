@@ -5,31 +5,31 @@ const projects = [
   {
     id: 1,
     title: "Softforware",
-    img: "/projects/softforware.jpg",
+    img: "/images/projects/softforware.jpg",
     url: "https://softforware.com/",
   },
   {
     id: 2,
     title: "Mindbuddy",
-    img: "/projects/mindbuddy.jpg",
+    img: "/images/projects/mindbuddy.jpg",
     url: "https://mindbuddy.io/",
   },
   {
     id: 3,
     title: "Twitter Clone",
-    img: "/projects/twitter.jpg",
+    img: "/images/projects/twitter.jpg",
     url: "https://kadirmetin-twitter-clone.vercel.app/",
   },
   {
     id: 4,
     title: "Hopi Clone",
-    img: "/projects/copy.jpg",
+    img: "/images/projects/copy.jpg",
     url: "https://play.google.com/store/apps/details?id=com.kaida.copy",
   },
   {
     id: 5,
     title: "E-Commerce",
-    img: "/projects/e-commerce.jpg",
+    img: "/images/projects/e-commerce.jpg",
     url: "https://github.com/kadirmetin/e-commerce",
   },
 ];
@@ -77,7 +77,7 @@ const Slider = () => {
                 </p>
               </div>
               <img
-                src="/arrow-right-solid.svg"
+                src="/images/arrow-right-solid.svg"
                 alt="arrow"
                 className="w-10 h-10 -rotate-45"
               />

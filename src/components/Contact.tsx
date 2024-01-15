@@ -2,22 +2,22 @@ const Links = [
   {
     name: "github",
     link: "https://github.com/kadirmetin",
-    icon: "/github.svg",
+    icon: "/images/github.svg",
   },
   {
     name: "linkedin",
     link: "https://www.linkedin.com/in/kadirmetin/",
-    icon: "/linkedin.svg",
+    icon: "/images/linkedin.svg",
   },
   {
     name: "x",
     link: "https://twitter.com/_kadirmetin",
-    icon: "/x.svg",
+    icon: "/images/x.svg",
   },
   {
     name: "instagram",
     link: "https://www.instagram.com/_kadirmetin/",
-    icon: "/instagram.svg",
+    icon: "/images/instagram.svg",
   },
 ];
 
@@ -36,7 +36,7 @@ const Contact = () => {
           experience. <br /> I also share my experiences on my blog Softforware.
         </p>
         <div className="flex flex-row items-center mt-5">
-          <img src="/mail.svg" alt="mail" className="w-5 h-5 mr-2" />
+          <img src="/images/mail.svg" alt="mail" className="w-5 h-5 mr-2" />
           <a href="mailto:hello@kadirmetin.dev">
             <p className="font-poppinsSB text-[#C5C5C5]">
               hello@kadirmetin.dev

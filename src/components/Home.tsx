@@ -1,12 +1,12 @@
 const skills = [
-  { name: "JavaScript", img: "/javascript.svg" },
-  { name: "TypeScript", img: "/typescript.svg" },
-  { name: "NodeJS", img: "/nodejs.svg" },
-  { name: "HTML", img: "/html.svg" },
-  { name: "CSS", img: "/css.svg" },
-  { name: "React", img: "/reactjs.svg" },
-  { name: "React Native", img: "/reactnative.svg" },
-  { name: "NextJS", img: "/nextjs.svg  " },
+  { name: "JavaScript", img: "/images/javascript.svg" },
+  { name: "TypeScript", img: "/images/typescript.svg" },
+  { name: "NodeJS", img: "/images/nodejs.svg" },
+  { name: "HTML", img: "/images/html.svg" },
+  { name: "CSS", img: "/images/css.svg" },
+  { name: "React", img: "/images/reactjs.svg" },
+  { name: "React Native", img: "/images/reactnative.svg" },
+  { name: "NextJS", img: "/images/nextjs.svg  " },
 ];
 
 const Home = () => {
@@ -18,7 +18,7 @@ const Home = () => {
       <div className="color-change-animation rounded-full">
         <div className="rounded-full overflow-hidden">
           <img
-            src="/memoji.png"
+            src="/images/memoji.png"
             alt="memoji"
             className="rounded-full object-cover w-40 h-40 md:w-64 md:h-64"
           />

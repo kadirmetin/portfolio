@@ -18,7 +18,7 @@ const ProjectsandExperience = () => {
           Experience
         </p>
         <ExperienceCard
-          img={"/mindbuddy.png"}
+          img={"/images/mindbuddy.png"}
           title={"Software Developer at Mindbuddy"}
           date={"Nov 2023 - Present"}
           description={
@@ -26,7 +26,7 @@ const ProjectsandExperience = () => {
           }
         />
         <ExperienceCard
-          img={"/p-solid.svg"}
+          img={"/images/p-solid.svg"}
           title={"Intern at PadmaApps"}
           date={"Sep 2023 - Oct 2023"}
           description={
