@@ -1,5 +1,5 @@
-import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
+import { Swiper, SwiperSlide } from "swiper/react";
 
 const projects = [
   {
@@ -31,6 +31,12 @@ const projects = [
     title: "E-Commerce",
     img: "/images/projects/e-commerce.jpg",
     url: "https://github.com/kadirmetin/e-commerce",
+  },
+  {
+    id: 5,
+    title: "Real Estate",
+    img: "/images/projects/real-estate.png",
+    url: "https://github.com/kadirmetin/real-estate",
   },
 ];
 

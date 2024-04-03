@@ -20,7 +20,7 @@ const ProjectsandExperience = () => {
         <ExperienceCard
           img={"/images/mindbuddy.png"}
           title={"Software Developer at Mindbuddy"}
-          date={"Nov 2023 - Present"}
+          date={"Nov 2023 - Feb 2024"}
           description={
             "At Mindbuddy, our commitment to leveraging cutting-edge technologies is exemplified in the development of our mobile application. Aligned with our company's strategic goals, I spearheaded the creation of a dynamic application that offers seamless multi-platform support through the use of React Native. With a strong focus on modernization and speed, I implemented Bun to create a robust and efficient backend service. This strategic integration not only improves the overall performance of our application, but also aligns with our vision of delivering a state-of-the-art user experience. The synthesis of React Native and Bun reflects our commitment to staying at the forefront of technological advancements and ensuring that our users benefit from a sophisticated and responsive mobile solution."
           }
